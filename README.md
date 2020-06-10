@@ -4,7 +4,7 @@
 </p>
 
 # Caio Nakati
-<sub> Analista Financeiro </sub>
+<sub> Financial Analyst </sub>
 
 An economist learning about data science. 
 
